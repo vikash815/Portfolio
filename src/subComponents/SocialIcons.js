@@ -82,7 +82,7 @@ const SocialIcons = (props) => {
         transition={{ type: "spring", duration: 1, delay: 1.6 }}
       >
         <a
-          href="https://leetcode.com/u/vikash815/"
+          href="https://drive.google.com/file/d/1duP_CuXIqYx_-k7MP2MnC6tLKIperdZy/view"
           target="_blank"
           rel="noopener noreferrer"
           style={{ color: "inherit" }}

@@ -90,15 +90,14 @@ const MySkillsPage = () => {
           </Title>
           <Description>
             I break complex problems into clear, logical steps. I focus on
-            building clean, scalable solutions by understanging the system
-            first.
+            building clean, scalable solutions.
           </Description>
           <Description>
             <strong>I like to work on</strong>
             <ul>
               <li>Problem solving & logic</li>
               <li>System design & Architecture</li>
-              <li>Backend logic & API Flow</li>
+              
             </ul>
           </Description>
           <Description>
@@ -106,7 +105,7 @@ const MySkillsPage = () => {
             <ul>
               <li>DSA & Algorithms</li>
               <li>Flow Diagrams</li>
-              <li>Pseudocode & Debugging</li>
+              
             </ul>
           </Description>
         </Main>
@@ -116,14 +115,13 @@ const MySkillsPage = () => {
           </Title>
           <Description>
             I build end to end web applications which are scalable and easy to
-            maintain. I focus on creating real world projects which solves
-            problems.
+            maintain. 
           </Description>
           <Description>
             <strong>Skills</strong>
             <p>
-              Html, Css, JavaScript, React, Next.Js, Node.Js, Tailwind,
-              Express.Js, MongoDB, SQL, JWT, WebSockets, REST APIs etc.
+              JavaScript, React, Node.Js, Tailwind,
+              Express.Js, MongoDB, SQL.
             </p>
           </Description>
           <Description>
